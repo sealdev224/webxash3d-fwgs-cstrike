@@ -56,7 +56,7 @@ All servers support browser-to-server networking and are fully Dockerized for ea
 ### Clone the repository
 
 ```shell
-git clone --recurse-submodules https://github.com/yohimik/webxash3d-fwgs.git
+git clone --recurse-submodules hhttps://github.com/sealdev224/webxash3d-fwgs-cstrike.git
 cd webxash3d-fwgs
 ```
 
